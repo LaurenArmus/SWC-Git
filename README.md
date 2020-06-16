@@ -7,3 +7,4 @@
 - `git log`: shows the history of commits we have done
 	- `git log --oneline`: shows the history of commits in 1 line each
 - `git diff`: shows changes made to most recent file
+- `git checkout`: moves HEAD to different version
