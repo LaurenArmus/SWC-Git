@@ -8,3 +8,5 @@
 	- `git log --oneline`: shows the history of commits in 1 line each
 - `git diff`: shows changes made to most recent file
 - `git checkout`: moves HEAD to different version
+- `git remote add`: adds github link
+-`git push/pull`: exports to github or takes from github
